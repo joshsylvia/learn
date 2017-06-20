@@ -1,0 +1,3 @@
+Python Learning Plan
+Array indexing 
+paths if/else statements
